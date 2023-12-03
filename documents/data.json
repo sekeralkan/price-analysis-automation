@@ -1,0 +1,33 @@
+{
+  "products":[
+     {
+        "model-code":8697432095593,
+        "brand-name":"Nutraxin",
+        "product-name":"Herbal Bromelain 500 Mg Ananas 60 Tablet",
+        "stok":296,
+        "price-1":{
+           "top-price":"164.02",
+           "commission":"%17.29"
+        },
+        "price-2":{
+           "top-price":"164.01",
+           "down-price":"154.88",
+           "commission":"%10.7"
+        },
+        "price-3":{
+           "top-price":"154.87",
+           "down-price":"136.19",
+           "commission":"%7.8"
+        },
+        "price-4":{
+           "down-price":"136.18",
+           "commission":"%3.7"
+        },
+        "comission-price":{
+           "price-description":"210.00₺\n",
+           "commission":"%17.29 "
+        },
+        "amount":210.00
+     }
+  ]
+}

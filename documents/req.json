@@ -1,0 +1,42 @@
+[
+  {
+    "displayorder":1,
+    "name":"20 Kasım - 27 Kasım",
+    "companyid":"5ea63dc4-d457-44d1-ba05-8df2cd9afa49",
+    "marketplaceid":"93918cba-1418-4cf5-9db3-35e83180d065",
+    "barcode":"3701129800843",
+    "lowerprice":385.65,
+    "higherprice":0,
+    "commission":14.13
+  },
+  {
+    "displayorder":2,
+    "name":"20 Kasım - 27 Kasım",
+    "companyid":"5ea63dc4-d457-44d1-ba05-8df2cd9afa49",
+    "marketplaceid":"93918cba-1418-4cf5-9db3-35e83180d065",
+    "barcode":"3701129800843",
+    "lowerprice":361.16,
+    "higherprice":385.64,
+    "commission":7.2
+  },
+  {
+    "displayorder":3,
+    "name":"20 Kasım - 27 Kasım",
+    "companyid":"5ea63dc4-d457-44d1-ba05-8df2cd9afa49",
+    "marketplaceid":"93918cba-1418-4cf5-9db3-35e83180d065",
+    "barcode":"3701129800843",
+    "lowerprice":310.72,
+    "higherprice":361.15,
+    "commission":4.3
+  },
+  {
+    "displayorder":4,
+    "name":"20 Kasım - 27 Kasım",
+    "companyid":"5ea63dc4-d457-44d1-ba05-8df2cd9afa49",
+    "marketplaceid":"93918cba-1418-4cf5-9db3-35e83180d065",
+    "barcode":"3701129800843",
+    "lowerprice":0,
+    "higherprice":310.71,
+    "commission":3.4
+  }
+]
