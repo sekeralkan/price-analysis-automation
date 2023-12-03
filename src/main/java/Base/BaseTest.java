@@ -26,7 +26,7 @@ public class BaseTest extends BaseLibrary {
             co.addArguments("disable-infobars");
             co.addArguments("--disable-extensions");
             co.addArguments("--incognito");
-            //co.addArguments("--headless=new");
+            co.addArguments("--headless=new");
             driver = new ChromeDriver(co);
         }
         else if (browser.equals("Firefox")) {
